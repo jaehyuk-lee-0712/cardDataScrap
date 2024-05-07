@@ -103,7 +103,8 @@ def scrape_and_save(url, filename):
         for i in range(len(dtlBtns)):
           btn = dtlBtns[i]
           
-          
+          prtin("btn is clicked")
+            
           action_chains = ActionChains(browser)
         
           action_chains.move_to_element(btn).click().perform()
@@ -138,7 +139,7 @@ def scrape_and_save(url, filename):
                 "summaryTitles" : summaryTitles,
                 "summaryDescs" : dtlDescText
             })
-
+        print(cardName)
         card_detail_info.append({
             "cardName" : cardName ,
             "cardTitle" : cardTitle , 
