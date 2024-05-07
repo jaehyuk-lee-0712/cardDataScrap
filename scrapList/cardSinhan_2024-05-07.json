@@ -60,6 +60,12 @@
         "cardAnnual": "국내 24만7천원, 해외 25만원"
     },
     {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10355/SH_10355_20240503-190550_ver.png",
+        "cardName": "신한카드 K-패스",
+        "cardDesc": "버스/지하철 요금 10% 할인!",
+        "cardAnnual": "국내 7천원, 해외 1만원"
+    },
+    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/1385/SH_1385_20231220-181630_ver.png",
         "cardName": "신한카드 Simple+",
         "cardDesc": "전월실적 상관없이 0.7% 캐시백!",

@@ -72,6 +72,12 @@
         "cardAnnual": "국내 80만원, 해외 80만원"
     },
     {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/HD/10353/HD_10353_20240430-195202_ver.png",
+        "cardName": "현대카드 Summit",
+        "cardDesc": "교육,병원,여행,골프 5%M포인트적립",
+        "cardAnnual": "국내 20만원, 해외 20만원"
+    },
+    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/HD/10113/HD_10113_20211112-190630_ver.png",
         "cardName": "the Red Edition5",
         "cardDesc": "20만원 바우처 제공",
@@ -82,12 +88,6 @@
         "cardName": "현대카드 대한항공카드 030",
         "cardDesc": "모든 가맹점 1천원당 1마일 적립",
         "cardAnnual": "국내 3만원, 해외 3만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/HD/10353/HD_10353_20240430-195202_ver.png",
-        "cardName": "현대카드 Summit",
-        "cardDesc": "교육,병원,여행,골프 5%M포인트적립",
-        "cardAnnual": "국내 20만원, 해외 20만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/HD/10318/HD_10318_20240111-153734_ver.png",

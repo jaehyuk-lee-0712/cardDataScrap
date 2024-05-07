@@ -42,12 +42,6 @@
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10315/WR_10315_20240104-101941_ver.png",
-        "cardName": "ALL 우리카드 Infinite",
-        "cardDesc": "1만 4천 ALL 리워드 포인트 제공",
-        "cardAnnual": "국내 50만원, 해외 50만원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10347/WR_10347_20240403-175029_ver.png",
         "cardName": "카드의정석 EVERY POINT",
         "cardDesc": "국내외 가맹점 기본 0.8% 적립",
@@ -58,6 +52,12 @@
         "cardName": "카드의정석 Dear, Shopper",
         "cardDesc": "퍼스널 쇼핑 5% 적립",
         "cardAnnual": "국내 15만원, 해외 15만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10315/WR_10315_20240104-101941_ver.png",
+        "cardName": "ALL 우리카드 Infinite",
+        "cardDesc": "1만 4천 ALL 리워드 포인트 제공",
+        "cardAnnual": "국내 50만원, 해외 50만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10348/WR_10348_20240417-111454_ver.png",

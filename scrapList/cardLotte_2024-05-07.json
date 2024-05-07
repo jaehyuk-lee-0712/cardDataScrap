@@ -24,12 +24,6 @@
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/1684/LO_1684_20220915-160142_hor.png",
-        "cardName": "롯데백화점 롯데카드",
-        "cardDesc": "롯데백화점 15% 청구할인 서비스!",
-        "cardAnnual": "국내 1만원, 해외 1만5천원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10306/LO_10306_20231114-163944_ver.png",
         "cardName": "LOCA Professional",
         "cardDesc": "실적조건·한도없이 최대 2% 캐시백",
@@ -42,22 +36,28 @@
         "cardAnnual": "국내 12만5천원, 해외 12만5천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10106/LO_10106_20211111-171423_ver.png",
-        "cardName": "LOCA LIKIT Eat",
-        "cardDesc": "음식점·배달앱·커피 60% 할인",
-        "cardAnnual": "국내 1만원, 해외 1만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10312/LO_10312_20231226-201027_ver.png",
-        "cardName": "롯데마트&MAXX 카드",
-        "cardDesc": "롯데마트&MAXX 월최대 10% 할인",
-        "cardAnnual": "국내 1만8천원, 해외 2만원"
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/1684/LO_1684_20220915-160142_hor.png",
+        "cardName": "롯데백화점 롯데카드",
+        "cardDesc": "롯데백화점 15% 청구할인 서비스!",
+        "cardAnnual": "국내 1만원, 해외 1만5천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10071/LO_10071_20210802-162442_ver.png",
         "cardName": "LOCA LIKIT",
         "cardDesc": "연 최대 42만원 할인 혜택!",
         "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10106/LO_10106_20211111-171423_ver.png",
+        "cardName": "LOCA LIKIT Eat",
+        "cardDesc": "음식점·배달앱·커피 60% 할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10176/LO_10176_20220823-135019_hor.png",
+        "cardName": "LOCA 나누기 카드",
+        "cardDesc": "수수료 없이 3개월, 6개월로 나누기",
+        "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10108/LO_10108_20211111-182305_ver.png",
@@ -72,9 +72,9 @@
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10310/LO_10310_20231130-011130_ver.png",
-        "cardName": "KT DC PLUS 롯데카드",
-        "cardDesc": "KT 통신비 최대 1만3천원 할인",
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/3856/LO_3856_hor.png",
+        "cardName": "LOCA CLASSIC (로카 클래식)",
+        "cardDesc": "전월 실적 없이 0.5% 기본 할인",
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
@@ -82,30 +82,6 @@
         "cardName": "LOCA PLATINUM(마일리지형)",
         "cardDesc": "SKYPASS 마일리지 특별 적립",
         "cardAnnual": "국내 10만원, 해외 10만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10307/LO_10307_20231121-040446_ver.png",
-        "cardName": "롯데카드 텔로 SE",
-        "cardDesc": "SKT 통신비 최대 1만3천원 할인",
-        "cardAnnual": "국내 2만5천원, 해외 2만5천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10176/LO_10176_20220823-135019_hor.png",
-        "cardName": "LOCA 나누기 카드",
-        "cardDesc": "수수료 없이 3개월, 6개월로 나누기",
-        "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10309/LO_10309_20231130-001110_hor.png",
-        "cardName": "LG U+ X LOCA",
-        "cardDesc": "LG U+ 통신비 최대 2만원 할인",
-        "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/3856/LO_3856_hor.png",
-        "cardName": "LOCA CLASSIC (로카 클래식)",
-        "cardDesc": "전월 실적 없이 0.5% 기본 할인",
-        "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10033/LO_10033_20210202-194432_hor.png",
@@ -120,10 +96,34 @@
         "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10310/LO_10310_20231130-011130_ver.png",
+        "cardName": "KT DC PLUS 롯데카드",
+        "cardDesc": "KT 통신비 최대 1만3천원 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10307/LO_10307_20231121-040446_ver.png",
+        "cardName": "롯데카드 텔로 SE",
+        "cardDesc": "SKT 통신비 최대 1만3천원 할인",
+        "cardAnnual": "국내 2만5천원, 해외 2만5천원"
+    },
+    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10277/LO_10277_20230717-164350_hor.png",
         "cardName": "LOCA PLATINUM(할인형)",
         "cardDesc": "국내외 가맹점 0.5% 결제일 할인",
         "cardAnnual": "국내 10만원, 해외 10만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10309/LO_10309_20231130-001110_hor.png",
+        "cardName": "LG U+ X LOCA",
+        "cardDesc": "LG U+ 통신비 최대 2만원 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10312/LO_10312_20231226-201027_ver.png",
+        "cardName": "롯데마트&MAXX 카드",
+        "cardDesc": "롯데마트&MAXX 월최대 10% 할인",
+        "cardAnnual": "국내 1만8천원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/1322/LO_1322_hor.png",
@@ -154,12 +154,6 @@
         "cardName": "롯데 포인트플러스 카드",
         "cardDesc": "L.POINT 제휴사 더블포인트 적립",
         "cardAnnual": "국내 5천원, 해외 5천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10351/LO_10351_20240419-144725_ver.png",
-        "cardName": "CJ온스타일 스페셜 롯데카드",
-        "cardDesc": "CJ온스타일 장기할부이용 시 캐시백",
-        "cardAnnual": "국내 1만2천원, 해외 1만5천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10227/LO_10227_20230131-123810_ver.png",
