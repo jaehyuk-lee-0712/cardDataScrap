@@ -39,6 +39,7 @@ jobs:
     - name: run my file
       run: |
         python scrap.py
+        python scrapDetail.py
     - name: commits
       run: |
         git config --global user.email "dlwogur0712@gmail.com"
@@ -52,6 +53,7 @@ jobs:
         git add scrapList/cardSamsung_*.json  # 와일드카드 사용
         git add scrapList/cardSinhan_*.json  # 와일드카드 사용
         git add scrapList/cardWoori_*.json  # 와일드카드 사용
+        git add scrapList/testJson.json
         git commit -m "신용카드 데이터 수집"
     - name: push
       uses: ad-m/github-push-action@master
