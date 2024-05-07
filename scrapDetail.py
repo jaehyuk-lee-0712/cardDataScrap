@@ -24,7 +24,7 @@ def scrape_and_save(url, filename):
     options = ChromeOptions()
     options.add_argument("user-agent=" + userAgent)
     #options.add_argument("--headless")
-    service = ChromeService(executable_path=ChromeDriverManager().install())
+    #service = ChromeService(executable_path=ChromeDriverManager().install())
     browser = webdriver.Chrome(options=options)
     browser.get(url)
 
