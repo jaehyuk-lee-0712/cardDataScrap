@@ -103,7 +103,7 @@ def scrape_and_save(url, filename):
         for i in range(len(dtlBtns)):
           btn = dtlBtns[i]
           
-          prtin("btn is clicked")
+          print("btn is clicked")
             
           action_chains = ActionChains(browser)
         
