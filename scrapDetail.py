@@ -18,7 +18,7 @@ def scrape_and_save(url, filename):
     current_date = datetime.now().strftime("%Y-%m-%d")
     folder_path = "scrapList"
     # 파일 경로 생성
-    filename = f"{folder_path}/{filename}_{current_date}.json"
+    filename = f"{folder_path}/{filename}.json"
     userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 
     options = ChromeOptions()
