@@ -161,4 +161,4 @@ def scrape_and_save(url, filename):
     # 브라우저 종료
     browser.quit()
 
-scrape_and_save("https://card-search.naver.com/list?benefitCategoryIds=7%2C16%2C13%2C17%2C10&sortMethod=ri&isRefetch=true&bizType=CPC", "testJson")
+scrape_and_save("https://card-search.naver.com/list?sortMethod=ri&ptn=2&bizType=CPC&companyCode=&brandNames=&benefitCategoryIds=&subBenefitCategoryIds=&affiliateIds=&minAnnualFee=0&maxAnnualFee=0&basePayment=0", "testJson")
