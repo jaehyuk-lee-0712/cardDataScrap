@@ -38,7 +38,7 @@ jobs:
        
     - name: run my file
       run: |
-        python scrapDetail.py
+        python scrap.py
     - name: commits
       run: |
         git config --global user.email "dlwogur0712@gmail.com"
