@@ -12,7 +12,7 @@ on:
     - cron: '0 2 * * *'
 
 jobs:
-  build:
+  cardScrap:
 
     runs-on: ubuntu-latest
 
@@ -52,10 +52,51 @@ jobs:
         #git add scrapList/cardSamsung_*.json  # 와일드카드 사용
         #git add scrapList/cardSinhan_*.json  # 와일드카드 사용
         #git add scrapList/cardWoori_*.json  # 와일드카드 사용
-        git add scrapList/testJson.json
         git commit -m "신용카드 데이터 수집"
     - name: push
       uses: ad-m/github-push-action@master
       with: 
         branch: "main"
         github_token: $
+
+  cardDetailScrap:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v3
+      with:
+        python-version: ${{ matrix.python-version }}
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+    - name: library install
+      run: |
+        pip install requests
+        pip install beautifulsoup4
+        pip install lxml
+        pip install pandas
+        pip install html5lib
+        pip install selenium
+        pip install webdriver_manager
+       
+    - name: run my file
+      run: |
+        python scrapDetail.py
+    - name: commits
+      run: |
+        git config --global user.email "dlwogur0712@gmail.com"
+        git config --global user.name "jaehyuk-lee-0712"
+        git add scrapList/scrapCardDetail_*.json  # 와일드카드 사용
+        git commit -m "신용카드 데이터 수집"
+    - name: push
+      uses: ad-m/github-push-action@master
+      with: 
+        branch: "main"
+        github_token: $
+
+
+    
