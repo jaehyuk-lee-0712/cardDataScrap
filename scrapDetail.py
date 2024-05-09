@@ -18,7 +18,7 @@ def scrape_and_save(url, filename):
     current_date = datetime.now().strftime("%Y-%m-%d")
     folder_path = "scrapList"
     # 파일 경로 생성
-    filename = f"{folder_path}/{filename}.json"
+    filename = f"{folder_path}/{filename}_{current_date}.json"
     userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 
     options = ChromeOptions()
@@ -161,4 +161,4 @@ def scrape_and_save(url, filename):
     # 브라우저 종료
     browser.quit()
 
-scrape_and_save("https://card-search.naver.com/list?sortMethod=ri&ptn=2&bizType=CPC&companyCode=&brandNames=&benefitCategoryIds=&subBenefitCategoryIds=&affiliateIds=&minAnnualFee=0&maxAnnualFee=0&basePayment=0", "testJson")
+scrape_and_save("https://card-search.naver.com/list?sortMethod=ri&ptn=2&bizType=CPC&companyCode=&brandNames=&benefitCategoryIds=&subBenefitCategoryIds=&affiliateIds=&minAnnualFee=0&maxAnnualFee=0&basePayment=0", "scrapCardDetail")
