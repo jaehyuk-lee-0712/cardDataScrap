@@ -12,15 +12,15 @@
         "cardAnnual": "국내 7천원, 해외 7천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3881/SS_3881_20221229-141914_hor.png",
-        "cardName": "taptap DRIVE",
-        "cardDesc": "모든주유소 리터당 최대 150원 할인",
-        "cardAnnual": "국내 1만원, 해외 1만원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/1531/SS_1531_20221229-134657_hor.png",
         "cardName": "삼성카드 taptap S",
         "cardDesc": "적립한도 없이 모든 가맹점 1% 적립",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3881/SS_3881_20221229-141914_hor.png",
+        "cardName": "taptap DRIVE",
+        "cardDesc": "모든주유소 리터당 최대 150원 할인",
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
@@ -48,15 +48,21 @@
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10103/SS_10103_20230103-181015_ver.png",
+        "cardName": "삼성 iD ALL 카드",
+        "cardDesc": "국내외 가맹점 실적한도 없이 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10184/SS_10184_20221004-224031_ver.png",
         "cardName": "삼성 iD PET 카드",
         "cardDesc": "동물병원, 반려동물쇼핑몰 30%할인",
         "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10103/SS_10103_20230103-181015_ver.png",
-        "cardName": "삼성 iD ALL 카드",
-        "cardDesc": "국내외 가맹점 실적한도 없이 할인",
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10328/SS_10328_20240306-145101_ver.png",
+        "cardName": "삼성 iD PLUG-IN 카드",
+        "cardDesc": "전기차 충전요금 최대 40% 할인",
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
@@ -66,21 +72,9 @@
         "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3896/SS_3896_20230103-174943_hor.png",
-        "cardName": "taptap SHOPPING",
-        "cardDesc": "온·오프라인쇼핑 연 최대 48만원할인",
-        "cardAnnual": "국내 1만원, 해외 1만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10328/SS_10328_20240306-145101_ver.png",
-        "cardName": "삼성 iD PLUG-IN 카드",
-        "cardDesc": "전기차 충전요금 최대 40% 할인",
-        "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10126/SS_10126_20221229-134439_ver.png",
-        "cardName": "삼성 iD ENERGY 카드",
-        "cardDesc": "주유 건별 10,000원 할인",
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10284/SS_10284_20230720-171210_ver.png",
+        "cardName": "MY S-OIL 삼성카드",
+        "cardDesc": "S-OIL 주유 10% 할인",
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
@@ -90,10 +84,10 @@
         "cardAnnual": "해외 2만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/1695/SS_1695_20230103-175044_hor.png",
-        "cardName": "삼성페이 삼성카드 taptap",
-        "cardDesc": "삼성페이 10%, 통신비10% 할인",
-        "cardAnnual": "국내 1만원, 해외 1만원"
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10282/SS_10282_20230719-152544_ver.png",
+        "cardName": "엠베스트 엘리하이 삼성카드",
+        "cardDesc": "메가스터디교육 월 최대 12천원 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10256/SS_10256_20230602-133911_ver.png",
@@ -102,15 +96,27 @@
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3896/SS_3896_20230103-174943_hor.png",
+        "cardName": "taptap SHOPPING",
+        "cardDesc": "온·오프라인쇼핑 연 최대 48만원할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/1695/SS_1695_20230103-175044_hor.png",
+        "cardName": "삼성페이 삼성카드 taptap",
+        "cardDesc": "삼성페이 10%, 통신비10% 할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10342/SS_10342_20240329-103302_ver.png",
         "cardName": "에버랜드 삼성카드",
         "cardDesc": "에버랜드 50% 할인",
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10284/SS_10284_20230720-171210_ver.png",
-        "cardName": "MY S-OIL 삼성카드",
-        "cardDesc": "S-OIL 주유 10% 할인",
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10126/SS_10126_20221229-134439_ver.png",
+        "cardName": "삼성 iD ENERGY 카드",
+        "cardDesc": "주유 건별 10,000원 할인",
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
@@ -129,12 +135,6 @@
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10281/SS_10281_20230719-115645_hor.png",
         "cardName": "SK매직 삼성카드",
         "cardDesc": "SK매직 렌탈료 정기결제시",
-        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10282/SS_10282_20230719-152544_ver.png",
-        "cardName": "엠베스트 엘리하이 삼성카드",
-        "cardDesc": "메가스터디교육 월 최대 12천원 할인",
         "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
