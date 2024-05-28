@@ -162,4 +162,5 @@ def scrape_and_save(url, filename):
     browser.quit()
 
 #scrape_and_save("https://card-search.naver.com/list?sortMethod=ri&ptn=2&bizType=CPC&companyCode=&brandNames=&benefitCategoryIds=&subBenefitCategoryIds=&affiliateIds=&minAnnualFee=0&maxAnnualFee=0&basePayment=0", "scrapCardDetail")
-scrape_and_save("https://card-search.naver.com/list?companyCode=KB&brandNames=&benefitCategoryIds=16%2C17&sortMethod=ri&isRefetch=true&bizType=CPC", "scrapCardDetail")
+# scrape_and_save("https://card-search.naver.com/list?companyCode=KB&brandNames=&benefitCategoryIds=16%2C17&sortMethod=ri&isRefetch=true&bizType=CPC", "scrapCardDetail")
+scrape_and_save("https://card-search.naver.com/list?companyCode=WR&brandNames=&benefitCategoryIds=8%2C10&sortMethod=ri&isRefetch=true&bizType=CPC", "scrapCardDetail")
