@@ -42,22 +42,16 @@
         "cardAnnual": "국내 3만원, 해외 3만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10302/KB_10302_20231115-181801_hor.png",
-        "cardName": "아메리칸 익스프레스 블루 KB국민카드",
-        "cardDesc": "쇼핑·주유·편의점 등 생활영역 할인",
-        "cardAnnual": "국내 1만9천원, 해외 1만9천원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/99/KB_99_20230308-153721_hor.png",
         "cardName": "KB국민 와이즈카드",
         "cardDesc": "많이 쓴 곳 알아서 최대 5%적립",
         "cardAnnual": "국내 5천원, 해외 1만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10332/KB_10332_20240322-101950_ver.png",
-        "cardName": "KB국민 WE:SH Travel 카드",
-        "cardDesc": "이용실적 없이 해외 이용 수수료 면제",
-        "cardAnnual": "국내 2만5천원, 해외 2만5천원"
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10302/KB_10302_20231115-181801_hor.png",
+        "cardName": "아메리칸 익스프레스 블루 KB국민카드",
+        "cardDesc": "쇼핑·주유·편의점 등 생활영역 할인",
+        "cardAnnual": "국내 1만9천원, 해외 1만9천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1470/KB_1470_20231024-103817_hor.png",
@@ -94,6 +88,12 @@
         "cardName": "KB국민 FINETECH카드(마일리지 대한항공)",
         "cardDesc": "국내가맹점 1,500원당 최대 3마일",
         "cardAnnual": "국내 2만원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10332/KB_10332_20240322-101950_ver.png",
+        "cardName": "KB국민 WE:SH Travel 카드",
+        "cardDesc": "이용실적 없이 해외 이용 수수료 면제",
+        "cardAnnual": "국내 2만5천원, 해외 2만5천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1362/KB_1362_20230127-093050_hor.png",

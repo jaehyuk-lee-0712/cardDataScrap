@@ -188,7 +188,7 @@
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10151/SH_10151_20231113-165157_ver.png",
         "cardName": "신한카드 플리",
-        "cardDesc": "전가맹점 최대 0.9% 결제일 할인",
+        "cardDesc": "국내 가맹점 최대 0.9% 결제일할인",
         "cardAnnual": "국내 1만5천원, 해외 1만8천원"
     },
     {
@@ -196,6 +196,12 @@
         "cardName": "Deep Dream Platinum+ (미니언즈)",
         "cardDesc": "백화점·쇼핑·카페 최대 5.5% 적립",
         "cardAnnual": "국내 3만원, 해외 3만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/4016/SH_4016_20220517-105610_ver.png",
+        "cardName": "신한카드 Unboxing",
+        "cardDesc": "온오프라인 구분없이 쇼핑 10%캐시백",
+        "cardAnnual": "국내 3만2천원, 해외 3만5천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10234/SH_10234_20230224-134132_ver.png",
