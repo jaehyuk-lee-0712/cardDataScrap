@@ -110,17 +110,17 @@ def scrape_and_save(url, filename):
           action_chains.move_to_element(btn).click().perform()
           
 
-          time.sleep(3)
+          time.sleep(1)
           
           browser.execute_script("arguments[0].click();", btn)
 
 
-          time.sleep(3)  # 요소가 로드되는 동안 대기
+          time.sleep(1)  # 요소가 로드되는 동안 대기
 
           if i < len(dtlBtns) - 1:
             next_btn = dtlBtns[i + 1]
             scroll_to_element(next_btn)
-            time.sleep(3)  # 스크롤 완료 대기
+            time.sleep(1)  # 스크롤 완료 대기
 
         summaryInfo = []
         summaryTitles = {}
@@ -156,8 +156,8 @@ def scrape_and_save(url, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(card_detail_info, f, ensure_ascii=False, indent=4)
     
-    # 5초 동안 대기
-    time.sleep(5)
+    # 3초 동안 대기
+    time.sleep(3)
     # 브라우저 종료
     browser.quit()
 
