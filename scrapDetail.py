@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import time
 from selenium.webdriver.common.action_chains import ActionChains
-import json
+import json 
 
 def scrape_and_save(url, filename):
     # 현재 날짜 가져오기
@@ -23,9 +23,9 @@ def scrape_and_save(url, filename):
 
     options = ChromeOptions()
     options.add_argument("user-agent=" + userAgent)
-    options.add_argument("--headless")
-    #service = ChromeService(executable_path=ChromeDriverManager().install())
-    browser = webdriver.Chrome(options=options)
+    # options.add_argument("--headless")
+    service = ChromeService(executable_path=ChromeDriverManager().install())
+    browser = webdriver.Chrome(options=options , service=service)
     browser.get(url)
 
     # 페이지가 완전히 로드될 때까지 대기
@@ -110,24 +110,27 @@ def scrape_and_save(url, filename):
           action_chains.move_to_element(btn).click().perform()
           
 
-          time.sleep(1)
+          time.sleep(3)
           
           browser.execute_script("arguments[0].click();", btn)
 
 
-          time.sleep(1)  # 요소가 로드되는 동안 대기
+          time.sleep(3)  # 요소가 로드되는 동안 대기
 
           if i < len(dtlBtns) - 1:
             next_btn = dtlBtns[i + 1]
             scroll_to_element(next_btn)
-            time.sleep(1)  # 스크롤 완료 대기
+            time.sleep(3)  # 스크롤 완료 대기
 
         summaryInfo = []
         summaryTitles = {}
+        dtlCategorys = []
         openDtls = browser.find_elements(By.CSS_SELECTOR , ".Benefits .details[open]")
 
         for dtl in openDtls:
             # 각 detail 요소에서 필요한 정보 추출
+            dtlCategoty = dtl.find_element(By.CSS_SELECTOR , '.Benefits .summary .text' ).text.strip()
+            dtlCategorys.append(dtlCategoty)
             dtlTitles = dtl.find_elements(By.CSS_SELECTOR , ".Benefits .detail>.list .detail_title")
             dtlDesc = dtl.find_elements(By.CSS_SELECTOR , ".Benefits .detail>.list>.desc")
             dtlDescText = "\n".join([desc.text.strip() for desc in dtlDesc])
@@ -136,10 +139,10 @@ def scrape_and_save(url, filename):
                 summaryTitles.append(title.text.strip())
             
             summaryInfo.append({
+                "summaryCategorys" : dtlCategorys,
                 "summaryTitles" : summaryTitles,
                 "summaryDescs" : dtlDescText
             })
-        print(cardName)
         card_detail_info.append({
             "cardName" : cardName ,
             "cardTitle" : cardTitle , 
@@ -156,15 +159,11 @@ def scrape_and_save(url, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(card_detail_info, f, ensure_ascii=False, indent=4)
     
-    # 3초 동안 대기
-    time.sleep(3)
+    # 5초 동안 대기
+    time.sleep(5)
     # 브라우저 종료
     browser.quit()
 
 scrape_and_save("https://card-search.naver.com/list?sortMethod=ri&ptn=2&bizType=CPC&companyCode=&brandNames=&benefitCategoryIds=&subBenefitCategoryIds=&affiliateIds=&minAnnualFee=0&maxAnnualFee=0&basePayment=0", "scrapCardDetail")
-#scrape_and_save("https://card-search.naver.com/list?companyCode=KB&brandNames=&benefitCategoryIds=16%2C17&sortMethod=ri&isRefetch=true&bizType=CPC", "scrapCardDetail")
-#scrape_and_save("https://card-search.naver.com/list?companyCode=WR&brandNames=&benefitCategoryIds=8%2C10&sortMethod=ri&isRefetch=true&bizType=CPC", "scrapCardDetail")
-
-
 
 
