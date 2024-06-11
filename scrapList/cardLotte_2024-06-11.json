@@ -66,15 +66,21 @@
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10033/LO_10033_20210202-194432_hor.png",
+        "cardName": "LOCA MONEY (로카 머니)",
+        "cardDesc": "한도 없이 최대 2% 로카코인 적립!",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10310/LO_10310_20231130-011130_ver.png",
         "cardName": "KT DC PLUS 롯데카드",
         "cardDesc": "KT 통신비 최대 1만3천원 할인",
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10033/LO_10033_20210202-194432_hor.png",
-        "cardName": "LOCA MONEY (로카 머니)",
-        "cardDesc": "한도 없이 최대 2% 로카코인 적립!",
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/3856/LO_3856_hor.png",
+        "cardName": "LOCA CLASSIC (로카 클래식)",
+        "cardDesc": "전월 실적 없이 0.5% 기본 할인",
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
@@ -82,12 +88,6 @@
         "cardName": "LOCA LIKIT Shop",
         "cardDesc": "놓칠 수 없는 온라인쇼핑 60% 할인",
         "cardAnnual": "국내 1만원, 해외 1만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/3856/LO_3856_hor.png",
-        "cardName": "LOCA CLASSIC (로카 클래식)",
-        "cardDesc": "전월 실적 없이 0.5% 기본 할인",
-        "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/3977/LO_3977_hor.png",

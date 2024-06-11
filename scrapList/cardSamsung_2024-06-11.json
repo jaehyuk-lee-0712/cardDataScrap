@@ -42,10 +42,10 @@
         "cardAnnual": "국내 4만7천원, 해외 4만9천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10126/SS_10126_20221229-134439_ver.png",
-        "cardName": "삼성 iD ENERGY 카드",
-        "cardDesc": "주유 건별 10,000원 할인",
-        "cardAnnual": "국내 2만원, 해외 2만원"
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3857/SS_3857_20230103-174906_hor.png",
+        "cardName": "taptap DIGITAL",
+        "cardDesc": "넷플릭스·멜론 등 스트리밍 50%할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10328/SS_10328_20240306-145101_ver.png",
@@ -60,16 +60,22 @@
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/277/SS_277_20230103-175513_hor.png",
+        "cardName": "신세계이마트 삼성카드 7",
+        "cardDesc": "신세계백화점 5%, 이마트 6천원할인",
+        "cardAnnual": "국내 1만8천원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10126/SS_10126_20221229-134439_ver.png",
+        "cardName": "삼성 iD ENERGY 카드",
+        "cardDesc": "주유 건별 10,000원 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10256/SS_10256_20230602-133911_ver.png",
         "cardName": "삼성 iD VITA 카드",
         "cardDesc": "병/의원, 약국 20% 할인",
         "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/593/SS_593_20230103-175539_hor.png",
-        "cardName": "아시아나 삼성애니패스플래티늄",
-        "cardDesc": "아시아나 1천원당 최대 5마일 적립",
-        "cardAnnual": "해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3896/SS_3896_20230103-174943_hor.png",
@@ -78,10 +84,10 @@
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3857/SS_3857_20230103-174906_hor.png",
-        "cardName": "taptap DIGITAL",
-        "cardDesc": "넷플릭스·멜론 등 스트리밍 50%할인",
-        "cardAnnual": "국내 1만원, 해외 1만원"
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/593/SS_593_20230103-175539_hor.png",
+        "cardName": "아시아나 삼성애니패스플래티늄",
+        "cardDesc": "아시아나 1천원당 최대 5마일 적립",
+        "cardAnnual": "해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10103/SS_10103_20230103-181015_ver.png",
@@ -102,10 +108,10 @@
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/277/SS_277_20230103-175513_hor.png",
-        "cardName": "신세계이마트 삼성카드 7",
-        "cardDesc": "신세계백화점 5%, 이마트 6천원할인",
-        "cardAnnual": "국내 1만8천원, 해외 2만원"
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10184/SS_10184_20221004-224031_ver.png",
+        "cardName": "삼성 iD PET 카드",
+        "cardDesc": "동물병원, 반려동물쇼핑몰 30%할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10279/SS_10279_20230719-130831_ver.png",
@@ -123,12 +129,6 @@
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10281/SS_10281_20230719-115645_hor.png",
         "cardName": "SK매직 삼성카드",
         "cardDesc": "SK매직 렌탈료 정기결제시",
-        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10184/SS_10184_20221004-224031_ver.png",
-        "cardName": "삼성 iD PET 카드",
-        "cardDesc": "동물병원, 반려동물쇼핑몰 30%할인",
         "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {

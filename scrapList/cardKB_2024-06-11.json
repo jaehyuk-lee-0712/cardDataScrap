@@ -48,28 +48,28 @@
         "cardAnnual": "국내 20만원, 해외 20만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2916/KB_2916_20230127-104432_hor.png",
-        "cardName": "KB국민 BeV V카드(스카이패스형)",
-        "cardDesc": "스카이패스 1500원당 최대3마일적립",
-        "cardAnnual": "국내 29만5천원, 해외 30만원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10302/KB_10302_20231115-181801_hor.png",
         "cardName": "아메리칸 익스프레스 블루 KB국민카드",
         "cardDesc": "쇼핑·주유·편의점 등 생활영역 할인",
         "cardAnnual": "국내 1만9천원, 해외 1만9천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/99/KB_99_20230308-153721_hor.png",
-        "cardName": "KB국민 와이즈카드",
-        "cardDesc": "많이 쓴 곳 알아서 최대 5%적립",
-        "cardAnnual": "국내 5천원, 해외 1만원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1470/KB_1470_20231024-103817_hor.png",
         "cardName": "KB국민 가온글로벌카드",
         "cardDesc": "해외가맹점 최대 3% 포인트리 적립",
         "cardAnnual": "국내 1만5천원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2916/KB_2916_20230127-104432_hor.png",
+        "cardName": "KB국민 BeV V카드(스카이패스형)",
+        "cardDesc": "스카이패스 1500원당 최대3마일적립",
+        "cardAnnual": "국내 29만5천원, 해외 30만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/99/KB_99_20230308-153721_hor.png",
+        "cardName": "KB국민 와이즈카드",
+        "cardDesc": "많이 쓴 곳 알아서 최대 5%적립",
+        "cardAnnual": "국내 5천원, 해외 1만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10301/KB_10301_20231115-161338_hor.png",
@@ -96,16 +96,16 @@
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2857/KB_2857_20230308-152855_hor.png",
-        "cardName": "KB국민 Easy Pick카드",
-        "cardDesc": "쇼핑·마트·주유·교통 5% 기본적립",
-        "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10214/KB_10214_20230203-141808_ver.png",
         "cardName": "KB국민 Our WE:SH 카드",
         "cardDesc": "마트, 백화점, 동네중심 5%청구할인",
         "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2857/KB_2857_20230308-152855_hor.png",
+        "cardName": "KB국민 Easy Pick카드",
+        "cardDesc": "쇼핑·마트·주유·교통 5% 기본적립",
+        "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1362/KB_1362_20230127-093050_hor.png",
