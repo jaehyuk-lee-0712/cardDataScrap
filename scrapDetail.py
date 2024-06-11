@@ -23,9 +23,9 @@ def scrape_and_save(url, filename):
 
     options = ChromeOptions()
     options.add_argument("user-agent=" + userAgent)
-    # options.add_argument("--headless")
-    service = ChromeService(executable_path=ChromeDriverManager().install())
-    browser = webdriver.Chrome(options=options , service=service)
+    options.add_argument("--headless")
+    #service = ChromeService(executable_path=ChromeDriverManager().install())
+    browser = webdriver.Chrome(options=options)
     browser.get(url)
 
     # 페이지가 완전히 로드될 때까지 대기
