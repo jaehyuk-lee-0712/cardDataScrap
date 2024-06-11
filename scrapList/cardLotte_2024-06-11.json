@@ -24,16 +24,16 @@
         "cardAnnual": "국내 12만5천원, 해외 12만5천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10306/LO_10306_20231114-163944_ver.png",
-        "cardName": "LOCA Professional",
-        "cardDesc": "실적조건·한도없이 최대 2% 캐시백",
-        "cardAnnual": "국내 30만원, 해외 30만원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/1684/LO_1684_20220915-160142_hor.png",
         "cardName": "롯데백화점 롯데카드",
         "cardDesc": "롯데백화점 15% 청구할인 서비스!",
         "cardAnnual": "국내 1만원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10306/LO_10306_20231114-163944_ver.png",
+        "cardName": "LOCA Professional",
+        "cardDesc": "실적조건·한도없이 최대 2% 캐시백",
+        "cardAnnual": "국내 30만원, 해외 30만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10312/LO_10312_20231226-201027_ver.png",
@@ -54,9 +54,9 @@
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10176/LO_10176_20220823-135019_hor.png",
-        "cardName": "LOCA 나누기 카드",
-        "cardDesc": "수수료 없이 3개월, 6개월로 나누기",
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10033/LO_10033_20210202-194432_hor.png",
+        "cardName": "LOCA MONEY (로카 머니)",
+        "cardDesc": "한도 없이 최대 2% 로카코인 적립!",
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
@@ -66,9 +66,9 @@
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10033/LO_10033_20210202-194432_hor.png",
-        "cardName": "LOCA MONEY (로카 머니)",
-        "cardDesc": "한도 없이 최대 2% 로카코인 적립!",
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10176/LO_10176_20220823-135019_hor.png",
+        "cardName": "LOCA 나누기 카드",
+        "cardDesc": "수수료 없이 3개월, 6개월로 나누기",
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
