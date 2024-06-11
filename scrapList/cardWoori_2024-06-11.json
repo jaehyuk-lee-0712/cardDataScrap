@@ -36,16 +36,28 @@
         "cardAnnual": "국내 1만3천원, 해외 1만5천원"
     },
     {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10347/WR_10347_20240403-175029_ver.png",
+        "cardName": "카드의정석 EVERY POINT",
+        "cardDesc": "국내외 가맹점 기본 0.8% 적립",
+        "cardAnnual": "국내 1만2천원, 해외 1만2천원"
+    },
+    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10045/WR_10045_20210305-164718_hor.png",
         "cardName": "우리 국민행복카드 S2",
         "cardDesc": "국가바우처, 임신/출산/보육 혜택제공",
         "cardAnnual": "국내전용 없음, 해외겸용 없음"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10347/WR_10347_20240403-175029_ver.png",
-        "cardName": "카드의정석 EVERY POINT",
-        "cardDesc": "국내외 가맹점 기본 0.8% 적립",
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10348/WR_10348_20240417-111454_ver.png",
+        "cardName": "카드의정석 I&U+",
+        "cardDesc": "국내가맹점 최대 1% 청구할인",
         "cardAnnual": "국내 1만2천원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10290/WR_10290_20230817-111237_ver.png",
+        "cardName": "트래블월렛 우리카드",
+        "cardDesc": "해외 신용&선불결제 수수료 면제서비스",
+        "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10330/WR_10330_20240307-160912_ver.png",
@@ -58,18 +70,6 @@
         "cardName": "ALL 우리카드 Infinite",
         "cardDesc": "1만 4천 ALL 리워드 포인트 제공",
         "cardAnnual": "국내 50만원, 해외 50만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10290/WR_10290_20230817-111237_ver.png",
-        "cardName": "트래블월렛 우리카드",
-        "cardDesc": "해외 신용&선불결제 수수료 면제서비스",
-        "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10348/WR_10348_20240417-111454_ver.png",
-        "cardName": "카드의정석 I&U+",
-        "cardDesc": "국내가맹점 최대 1% 청구할인",
-        "cardAnnual": "국내 1만2천원, 해외 1만2천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10316/WR_10316_20240104-112354_ver.png",
