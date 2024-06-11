@@ -24,7 +24,7 @@ def scrape_and_save(url, filename):
     options = ChromeOptions()
     options.add_argument("user-agent=" + userAgent)
     options.add_argument("--headless")
-    #service = ChromeService(executable_path=ChromeDriverManager().install())
+    # service = ChromeService(executable_path=ChromeDriverManager().install())
     browser = webdriver.Chrome(options=options)
     browser.get(url)
 
@@ -139,7 +139,6 @@ def scrape_and_save(url, filename):
                 summaryTitles.append(title.text.strip())
             
             summaryInfo.append({
-                "summaryCategorys" : dtlCategorys,
                 "summaryTitles" : summaryTitles,
                 "summaryDescs" : dtlDescText
             })
@@ -151,7 +150,8 @@ def scrape_and_save(url, filename):
             "cardSummary" : cardSummary ,
             "cardBtnUrl" : cardBtnUrl , 
             "BenefitsTitle" : BenefitsTitle ,
-            "summaryInfo" : summaryInfo
+            "summaryInfo" : summaryInfo , 
+            "summaryCategorys" : dtlCategorys
         })
     
 
