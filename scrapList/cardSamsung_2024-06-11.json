@@ -24,9 +24,21 @@
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/277/SS_277_20230103-175513_hor.png",
+        "cardName": "신세계이마트 삼성카드 7",
+        "cardDesc": "신세계백화점 5%, 이마트 6천원할인",
+        "cardAnnual": "국내 1만8천원, 해외 2만원"
+    },
+    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10102/SS_10102_20230217-102927_ver.png",
         "cardName": "삼성 iD ON 카드",
         "cardDesc": "연 최대 48만원 할인!",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10328/SS_10328_20240306-145101_ver.png",
+        "cardName": "삼성 iD PLUG-IN 카드",
+        "cardDesc": "전기차 충전요금 최대 40% 할인",
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
@@ -42,21 +54,27 @@
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10126/SS_10126_20221229-134439_ver.png",
-        "cardName": "삼성 iD ENERGY 카드",
-        "cardDesc": "주유 건별 10,000원 할인",
-        "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3857/SS_3857_20230103-174906_hor.png",
         "cardName": "taptap DIGITAL",
         "cardDesc": "넷플릭스·멜론 등 스트리밍 50%할인",
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10328/SS_10328_20240306-145101_ver.png",
-        "cardName": "삼성 iD PLUG-IN 카드",
-        "cardDesc": "전기차 충전요금 최대 40% 할인",
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3896/SS_3896_20230103-174943_hor.png",
+        "cardName": "taptap SHOPPING",
+        "cardDesc": "온·오프라인쇼핑 연 최대 48만원할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10256/SS_10256_20230602-133911_ver.png",
+        "cardName": "삼성 iD VITA 카드",
+        "cardDesc": "병/의원, 약국 20% 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10126/SS_10126_20221229-134439_ver.png",
+        "cardName": "삼성 iD ENERGY 카드",
+        "cardDesc": "주유 건별 10,000원 할인",
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
@@ -70,18 +88,6 @@
         "cardName": "네이버페이 taptap",
         "cardDesc": "네이버페이 간편결제 10% 적립",
         "cardAnnual": "국내 1만5천원, 해외 1만5천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3896/SS_3896_20230103-174943_hor.png",
-        "cardName": "taptap SHOPPING",
-        "cardDesc": "온·오프라인쇼핑 연 최대 48만원할인",
-        "cardAnnual": "국내 1만원, 해외 1만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10256/SS_10256_20230602-133911_ver.png",
-        "cardName": "삼성 iD VITA 카드",
-        "cardDesc": "병/의원, 약국 20% 할인",
-        "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/593/SS_593_20230103-175539_hor.png",
@@ -124,12 +130,6 @@
         "cardName": "삼성 iD PET 카드",
         "cardDesc": "동물병원, 반려동물쇼핑몰 30%할인",
         "cardAnnual": "국내 1만5천원, 해외 1만5천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/277/SS_277_20230103-175513_hor.png",
-        "cardName": "신세계이마트 삼성카드 7",
-        "cardDesc": "신세계백화점 5%, 이마트 6천원할인",
-        "cardAnnual": "국내 1만8천원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10311/SS_10311_20231213-104200_ver.png",
