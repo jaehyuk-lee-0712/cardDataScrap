@@ -12,16 +12,16 @@
         "cardAnnual": "국내 1만원, 해외 1만2천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2332/KB_2332_20230215-134842_hor.png",
-        "cardName": "KB국민 톡톡Pay카드",
-        "cardDesc": "간편결제(Pay) 청구할인 최대40%",
-        "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10216/KB_10216_20240314-135529_hor.png",
         "cardName": "KB국민 My WE:SH 카드",
         "cardDesc": "음식점최대20%, OTT30% 할인",
         "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2332/KB_2332_20230215-134842_hor.png",
+        "cardName": "KB국민 톡톡Pay카드",
+        "cardDesc": "간편결제(Pay) 청구할인 최대40%",
+        "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1294/KB_1294_20230308-153427_hor.png",
@@ -42,6 +42,12 @@
         "cardAnnual": "국내 1만9천원, 해외 1만9천원"
     },
     {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1470/KB_1470_20231024-103817_hor.png",
+        "cardName": "KB국민 가온글로벌카드",
+        "cardDesc": "해외가맹점 최대 3% 포인트리 적립",
+        "cardAnnual": "국내 1만5천원, 해외 2만원"
+    },
+    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/99/KB_99_20230308-153721_hor.png",
         "cardName": "KB국민 와이즈카드",
         "cardDesc": "많이 쓴 곳 알아서 최대 5%적립",
@@ -52,12 +58,6 @@
         "cardName": "아메리칸 익스프레스 로즈골드 KB국민카드",
         "cardDesc": "KB Pay 결제시 최대 10% 할인",
         "cardAnnual": "국내 1만9천원, 해외 1만9천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1470/KB_1470_20231024-103817_hor.png",
-        "cardName": "KB국민 가온글로벌카드",
-        "cardDesc": "해외가맹점 최대 3% 포인트리 적립",
-        "cardAnnual": "국내 1만5천원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10332/KB_10332_20240322-101950_ver.png",
@@ -102,16 +102,16 @@
         "cardAnnual": "국내 2만원, 해외 2만5천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2612/KB_2612_20240126-104113_hor.png",
-        "cardName": "KB국민 The Easy카드",
-        "cardDesc": "대형마트·주유소 최대 5.7% 할인",
-        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/111/KB_111_20230308-153729_hor.png",
         "cardName": "KB국민 와이즈홈카드",
         "cardDesc": "통신요금10%, 대중교통 5%청구할인",
         "cardAnnual": "국내 5천원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2612/KB_2612_20240126-104113_hor.png",
+        "cardName": "KB국민 The Easy카드",
+        "cardDesc": "대형마트·주유소 최대 5.7% 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1451/KB_1451_20240126-112342_hor.png",
