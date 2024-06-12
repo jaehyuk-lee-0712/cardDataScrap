@@ -115,7 +115,7 @@ def scrape_and_save(url, filename):
           browser.execute_script("arguments[0].click();", btn)
 
 
-          time.sleep(3)  # 요소가 로드되는 동안 대기
+          time.sleep(1)  # 요소가 로드되는 동안 대기
 
           if i < len(dtlBtns) - 1:
             next_btn = dtlBtns[i + 1]
@@ -160,7 +160,7 @@ def scrape_and_save(url, filename):
         json.dump(card_detail_info, f, ensure_ascii=False, indent=4)
     
     # 5초 동안 대기
-    time.sleep(5)
+    time.sleep(2)
     # 브라우저 종료
     browser.quit()
 
