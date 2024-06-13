@@ -1,5 +1,11 @@
 [
     {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/115/KB_115_20230125-142026_hor.png",
+        "cardName": "KB국민 굿데이카드",
+        "cardDesc": "통신·교통·외식 등 생활영역10%할인",
+        "cardAnnual": "국내 5천원, 해외 1만원"
+    },
+    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1692/KB_1692_20230125-142003_hor.png",
         "cardName": "KB국민 청춘대로 톡톡카드",
         "cardDesc": "스타벅스 최대 60%할인은 기본",
@@ -12,10 +18,22 @@
         "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/115/KB_115_20230125-142026_hor.png",
-        "cardName": "KB국민 굿데이카드",
-        "cardDesc": "통신·교통·외식 등 생활영역10%할인",
-        "cardAnnual": "국내 5천원, 해외 1만원"
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10302/KB_10302_20231115-181801_hor.png",
+        "cardName": "아메리칸 익스프레스 블루 KB국민카드",
+        "cardDesc": "쇼핑·주유·편의점 등 생활영역 할인",
+        "cardAnnual": "국내 1만9천원, 해외 1만9천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10332/KB_10332_20240322-101950_ver.png",
+        "cardName": "KB국민 WE:SH Travel 카드",
+        "cardDesc": "이용실적 없이 해외 이용 수수료 면제",
+        "cardAnnual": "국내 2만5천원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10301/KB_10301_20231115-161338_hor.png",
+        "cardName": "아메리칸 익스프레스 로즈골드 KB국민카드",
+        "cardDesc": "KB Pay 결제시 최대 10% 할인",
+        "cardAnnual": "국내 1만9천원, 해외 1만9천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10267/KB_10267_20240424-101143_ver.png",
@@ -70,24 +88,6 @@
         "cardName": "KB국민 BeV V카드(스카이패스형)",
         "cardDesc": "스카이패스 1500원당 최대3마일적립",
         "cardAnnual": "국내 29만5천원, 해외 30만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10302/KB_10302_20231115-181801_hor.png",
-        "cardName": "아메리칸 익스프레스 블루 KB국민카드",
-        "cardDesc": "쇼핑·주유·편의점 등 생활영역 할인",
-        "cardAnnual": "국내 1만9천원, 해외 1만9천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10332/KB_10332_20240322-101950_ver.png",
-        "cardName": "KB국민 WE:SH Travel 카드",
-        "cardDesc": "이용실적 없이 해외 이용 수수료 면제",
-        "cardAnnual": "국내 2만5천원, 해외 2만5천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10301/KB_10301_20231115-161338_hor.png",
-        "cardName": "아메리칸 익스프레스 로즈골드 KB국민카드",
-        "cardDesc": "KB Pay 결제시 최대 10% 할인",
-        "cardAnnual": "국내 1만9천원, 해외 1만9천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1451/KB_1451_20240126-112342_hor.png",

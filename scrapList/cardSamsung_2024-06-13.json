@@ -6,16 +6,16 @@
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10102/SS_10102_20230217-102927_ver.png",
-        "cardName": "삼성 iD ON 카드",
-        "cardDesc": "연 최대 48만원 할인!",
-        "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10157/SS_10157_20230103-181148_ver.png",
         "cardName": "삼성 iD SIMPLE 카드",
         "cardDesc": "쿠팡 와우 멤버십 50% 할인",
         "cardAnnual": "국내 7천원, 해외 7천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10102/SS_10102_20230217-102927_ver.png",
+        "cardName": "삼성 iD ON 카드",
+        "cardDesc": "연 최대 48만원 할인!",
+        "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/1531/SS_1531_20221229-134657_hor.png",
