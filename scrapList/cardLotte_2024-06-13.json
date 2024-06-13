@@ -12,16 +12,16 @@
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10141/LO_10141_20220401-175950_hor.png",
-        "cardName": "LOCA 365",
-        "cardDesc": "관리비, 공과금 10% 할인!",
-        "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10306/LO_10306_20231114-163944_ver.png",
         "cardName": "LOCA Professional",
         "cardDesc": "실적조건·한도없이 최대 2% 캐시백",
         "cardAnnual": "국내 30만원, 해외 30만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10141/LO_10141_20220401-175950_hor.png",
+        "cardName": "LOCA 365",
+        "cardDesc": "관리비, 공과금 10% 할인!",
+        "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10105/LO_10105_20211111-160041_ver.png",
@@ -84,16 +84,16 @@
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/3977/LO_3977_hor.png",
-        "cardName": "롤라카드",
-        "cardDesc": "롯데그룹사 7% 롤라머니 적립!",
-        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10033/LO_10033_20210202-194432_hor.png",
         "cardName": "LOCA MONEY (로카 머니)",
         "cardDesc": "한도 없이 최대 2% 로카코인 적립!",
         "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/3977/LO_3977_hor.png",
+        "cardName": "롤라카드",
+        "cardDesc": "롯데그룹사 7% 롤라머니 적립!",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10307/LO_10307_20231121-040446_ver.png",
